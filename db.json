@@ -1,0 +1,70 @@
+{
+  "bg": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2017/06/css-is-awesome-scaled.jpg?resize=1536%2C1208&ssl=1",
+  "title": "Prova de redes",
+  "description": "Teste os seus conhecimentos sobre Redes",
+  "questions": [
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Modelo_OSI_-_Camada_de_Rede.png",
+      "title": "Escolha a opção correta sobre a divisão dos sete níveis/camadas funcionais da rede.",
+      "description": "Redes Nv 1",
+      "answer": 2,
+      "alternatives": [
+        "Aplicação, Sessão, Apresentação, Rede, Transporte, Enlace, Fisica",
+        "Sessão, Apresentação, Rede, Aplicação, Transporte, Fisica, Enlance",
+        "Aplicação, Apresentação, Sessão, Transporte, Rede, Enlance, Fisica",
+        "Apresentação, Aplicação, Sessão, Transporte, Rede, Enlance, Fisica",
+        "Transporte, Rede, Aplicação, Sessão, Apresentação, Enlance, Fisica",
+        "Nem uma das opção acima"
+      ]
+    },
+    {
+      "image": "https://www.net-usb.com/images/upload/UNG/articles/over/1.1.jpg",
+      "title": "TCP/IP tem muitos protocolos. Os protocolos individuais são organizados em camadas que usam o modelo de protocolo TCP/IP.",
+      "description": "Informe o Protocolo correto da Camada de Aplicação",
+      "answer": 3,
+      "alternatives": [
+         "TCP, UDP",
+         "IP, ICMP, IPSEC, IGMP",
+         "ARP, L2TP, NDP, ETHERNET",
+         "SSH, FTP, SMTP, DHCP, DNS, RIP, SNMP, HTTP"
+      ]
+    },
+    {
+      "image": "https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/da98a89843e32b717357db4ab9a66c00.jpg",
+      "title": "As redes da 4ª geração, utilizadas atualmente em algumas regiões do Brasil, são capazes de entregar uma velocidade média de conexão de, aproximadamente, 33 Mbps. Estima-se que o 5G será capaz de entregar velocidades 50 a 100 vezes maiores, podendo alcançar até 10 Gbps.",
+      "description": "A informação esta correta? ",
+      "answer": 0,
+      "alternatives": [
+        "Verdadeiro",
+        "Falso"
+      ]
+    },
+    {
+      "image": "https://img.directindustry.com/pt/images_di/photo-mg/66478-11358420.jpg",
+      "title": "Há vários tipos de conectores. As principais diferenças entre os tipos de conectores são as dimensões e os métodos de acoplamento. Os três tipos mais populares de conectores de fibra óptica são ST, SC e LC.",
+      "description": "Conforme a informação acima qual o modelo de conector sua empresa de trabalho utiliza?",
+      "answer": 1,
+      "alternatives": [
+         "ST",
+         "SC",
+         "LC",
+         "CT"
+      ]
+    }
+  ],
+  "external": [
+    ""
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#0d47a1",
+      "secondary": "#29b6f6",
+      "mainBg": "#171B35",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+    
+  }
+}
