@@ -34,7 +34,7 @@ function ResultgWidget({ results }) {
           perguntas
         </p>
         <p>
-          {results.filter((x) => x).length >= 3 ? 'Parabens você foi Aprovado' : 'Reprovado tente novamente'}
+          {results.filter((x) => x).length >= 13 ? 'Parabens você foi Aprovado' : 'Reprovado tente novamente'}
         </p>
         <ul>
           {results.map((result, index) => (

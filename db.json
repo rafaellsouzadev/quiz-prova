@@ -50,7 +50,142 @@
          "LC",
          "CT"
       ]
+    },
+    { 
+      "image": "https://static.vestibulares.com.br/wp-content/uploads/2021/06/pexels-christina-morillo-1181354-2.jpg",    
+      "title": "Qual o nome da ferramenta de linha de comando para aferir informações sobre a rede em um sistema operacional Windows 10?",
+      "description": "Conforme a informação acima qual o modelo de conector sua empresa de trabalho utiliza?",
+      "answer": 0,
+      "alternatives": [
+         "ipconfig",
+         "ifconfig",
+         "ipinfo",
+         "netinfo",
+         "netconfig"
+      ]
+    },
+    {
+      "image": "https://static.vestibulares.com.br/wp-content/uploads/2021/06/pexels-christina-morillo-1181354-2.jpg",   
+      "title": "De acordo com o texto, a placa de rede do computador de Paulo tem velocidade de transmissão de 10/100. ",
+      "description": "Isso significa que a transmissão de dados pela rede entre o computador de Paulo e um computador servidor com placa de rede de mesma velocidade pode ser de até",
+      "answer": 0,
+      "alternatives": [
+         "100 megabits por segundo.",
+         "100 megabytes por segundo.",
+         "10 megabytes por segundo.",
+         "100 megabits por minuto.",
+         "1000 megabits por segundo."
+      ]
+    },
+    {
+      "image": "https://static.vestibulares.com.br/wp-content/uploads/2021/06/pexels-christina-morillo-1181354-2.jpg",   
+      "title": "Em uma rede local, cujas estações de trabalho usam o sistema operacional Windows XP e endereços IP fixos em suas configurações de conexão, um novo host foi instalado e, embora esteja normalmente conectado à rede, não consegue acesso à internet distribuída nessa rede. ",
+      "description": "Considerando que todas as outras estações da rede estão acessando a internet sem dificuldades, um dos motivos que pode estar ocasionando esse problema no novo host é",
+      "answer": 2,
+      "alternatives": [
+         "a codificação incorreta do endereço de FTP para o domínio registrado na internet.",
+         "a falta de registro da assinatura digital do host nas opções da internet.",
+         "um erro no Gateway padrão, informado nas propriedades do Protocolo TCP/IP desse host.",
+         "um erro no cadastramento da conta ou da senha do próprio host.",
+         "um defeito na porta do switch onde a placa de rede desse host está conectada."
+      ]
+    },
+    {
+      "image": "https://static.vestibulares.com.br/wp-content/uploads/2021/06/pexels-christina-morillo-1181354-2.jpg",   
+      "title": "Para conectar sua estação de trabalho a uma rede local de computadores controlada por um servidor de domínios, o usuário dessa rede deve informar uma senha e um[a]",     
+      "answer": 3,
+      "alternatives": [
+         "endereço de FTP válido para esse domínio.",
+         "endereço MAC de rede registrado na máquina cliente.",
+         "porta válida para a intranet desse domínio.",
+         "conta cadastrada e autorizada nesse domínio.",
+         "certificação de navegação segura registrada na intranet."
+      ]
+    },
+    {
+      "image": "https://static.vestibulares.com.br/wp-content/uploads/2021/06/pexels-christina-morillo-1181354-2.jpg",   
+      "title": "Uma rede local (LAN — local area network) é caracterizada por abranger uma área geográfica, em teoria, ilimitada. O alcance físico dessa rede permite que os dados trafeguem com taxas acima de 100 Mbps.",     
+      "answer": 1,
+      "alternatives": [
+         "CERTO",
+         "ERRADO"        
+      ]
+    },
+    {
+      "image": "https://static.vestibulares.com.br/wp-content/uploads/2021/06/pexels-christina-morillo-1181354-2.jpg",   
+      "title": "Uma rede local sem fio, ou WLAN, conforme a configuração usada, permite a conexão com o ponto de acesso à Internet, com ou sem o uso de proteção dos dados mediante criptografia.",     
+      "answer": 0,
+      "alternatives": [
+         "CERTO",
+         "ERRADO"        
+      ]
+    },
+    {
+      "image": "https://static.vestibulares.com.br/wp-content/uploads/2021/06/pexels-christina-morillo-1181354-2.jpg",   
+      "title": "Com relação ao protocolo TCP/IP, julgue os próximos itens.",  
+      "description": "Garantir a integridade dos dados é uma característica do protocolo IP.",   
+      "answer": 1,
+      "alternatives": [
+         "CERTO",
+         "ERRADO"        
+      ]
+    },
+    {
+      "image": "https://static.vestibulares.com.br/wp-content/uploads/2021/06/pexels-christina-morillo-1181354-2.jpg",   
+      "title": "Com relação à tecnologia ethernet, julgue os itens seguintes.",  
+      "description": "O protocolo fast ethernet tem o mesmo funcionamento do ethernet (CSMA/CD), mas com velocidade de transmissão maior, podendo chegar até 1 Gbps.",   
+      "answer": 1,
+      "alternatives": [
+         "CERTO",
+         "ERRADO"        
+      ]
+    },
+    {
+      "image": "https://static.vestibulares.com.br/wp-content/uploads/2021/06/pexels-christina-morillo-1181354-2.jpg",   
+      "title": "Sobre as portas TCP e UDP é incorreto afirmar que:",       
+      "answer": 0,
+      "alternatives": [
+         "Uma aplicação cliente (que utiliza TCP ou UDP) pode escolher inclusive as portas 'Bem conhecidas' (Well known Ports), para acessar como cliente, um serviço de rede em um servidor remoto.",
+         "As portas TCP e UDP são totalmente diferentes, ou seja, quando acessamos um Serviço de rede, o acesso é feito a uma porta TCP ou uma porta UDP, de acordo com o protocolo de transporte.",
+         "As portas possibilitam que diversos serviços de rede sejam disponibilizados no mesmo host",
+         "Quando um Serviço de Rede é iniciado, uma porta é aberta (Open Passivo) no estado LISTENING(caso seja TCP), aguardando conexões de clientes."        
+      ]
+    },
+    {
+      "image": "https://static.vestibulares.com.br/wp-content/uploads/2021/06/pexels-christina-morillo-1181354-2.jpg",   
+      "title": "Um administrador pode executar o comando “netstat –na” com a seguinte finalidade:",       
+      "answer": 2,
+      "alternatives": [
+         "Fechar uma conexão TCP",
+         "Saber quais portas TCP, UDP e ICMP estão abertas e disponiveis no computador para estabelecimento de Circuitos Virtuais",
+         "Saber quais serviços estão em execução na propria maquina, a parti das portas que estão abertas aguardando conexões.",
+         "Reiniciar o cliente DNS",
+         "Verificar quais portas UDP estão com o status ESTABLISHED."        
+      ]
+    },
+    {
+      "image": "https://static.vestibulares.com.br/wp-content/uploads/2021/06/pexels-christina-morillo-1181354-2.jpg",   
+      "title": "Considere a conexão TCP que será realizada após digitar o endereço de um site em um navegador. Quais estados TCP a seguir podem ser identificados no cliente referente a este acesso?",       
+      "answer": 0,
+      "alternatives": [
+         "SYN_SENT",
+         "LISTENING",
+         "ESTABLISHED",
+         "SYN_RECV"        
+      ]
+    },
+    {
+      "image": "https://img-c.udemycdn.com/redactor/raw/2020-06-28_23-12-37-421b8e22d123e719fa0908be1a3d718a.png",   
+      "title": "Analise a imagem a seguir e marque a alternativa, incorreta:",       
+      "answer": 2,
+      "alternatives": [
+         "Existem 5 portas TCP abertas aguardando conexões(Open Passivo)",
+         "É possivel identificar que temos um 'Three Way Handshake' em andamento, sendo que a aplicação cliente possui o PID 2016 e utilizou a porta TCP 1528 como 'Open Ativo'",
+         "Existem 4 conexões TCP (Circuitos Virtuais) ativos no momento",
+         "Devido a sintaxe do comando, não foi possível visualizar se existem portas UDP abertas"        
+      ]
     }
+
   ],
   "external": [
     ""
